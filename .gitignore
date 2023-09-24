@@ -1,0 +1,7 @@
+
+
+Pods/
+PortfolioApp.xcworkspace/
+Podfile.lock
+swiftlint.output.json
+swiftlint.output.txt
